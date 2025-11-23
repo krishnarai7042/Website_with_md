@@ -1,0 +1,30 @@
+# Hi, I'm Krishna Rai 👋
+Technoholic | Robotics Educator | Passionate about Gadgets & Innovation
+
+---
+
+## 🚀 About Me
+I love working on robotics, coding, and real-world aerospace applications.  
+Mentoring students and organizing competitions is my passion.
+
+---
+
+## 🔧 Skills
+- Arduino & Raspberry Pi
+- Embedded Systems
+- Sensor Integration
+- Robotics Education
+
+---
+
+## 📂 Projects
+- **Wall Runner Challenge** – Autonomous maze-solving robot
+- **Smart Plant Monitor** – IoT-based plant care system
+- **Tech Innovator** – Robotics in Aerospace themed competition
+
+---
+
+## 📫 Contact
+You can reach me at:  
+[GitHub Profile](https://github.com/your-username)  
+[Email](mailto:your-email@example.com)
